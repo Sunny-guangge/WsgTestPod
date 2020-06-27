@@ -10,7 +10,6 @@
 
 @implementation UIView (Frame)
 
-
 - (CGFloat)left {
     return self.frame.origin.x;
 }
