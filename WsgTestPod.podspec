@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "WsgTestPod"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of WsgTestPod."
+  spec.summary      = "yige ceshi xiangmu "
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/WsgTestPod"
+  spec.homepage     = "https://github.com/Sunny-guangge/WsgTestPod.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -52,7 +52,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "wangshuaiguang" => "wangshuaiguang@zuoyebang.com" }
+  spec.author             = { "sunny" => "18611021761@163.com" }
   # Or just: spec.author    = "wangshuaiguang"
   # spec.authors            = { "wangshuaiguang" => "wangshuaiguang@zuoyebang.com" }
   # spec.social_media_url   = "https://twitter.com/wangshuaiguang"
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/WsgTestPod.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/Sunny-guangge/WsgTestPod.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
