@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WsgTestPod"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "yige ceshi xiangmu "
 
   # This description is used to generate tags and improve search results.
@@ -24,7 +24,8 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC 自己测试的玩意
+  spec.description  = <<-DESC 
+  自己测试的玩意
                    DESC
 
   spec.homepage     = "https://github.com/Sunny-guangge/WsgTestPod.git"
