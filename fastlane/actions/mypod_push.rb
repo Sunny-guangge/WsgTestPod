@@ -3,7 +3,6 @@ module Fastlane
     class MypodPushAction < Action
       def self.run(params)
         # fastlane will take care of reading in the parameter and fetching the environment variable:
-        UI.message "Parameter API Token: #{params[:api_token]}"
         command = []
 
         command << "bundle exec" if params[:use_bundle_exec] && shell_out_should_use_bundle_exec?
